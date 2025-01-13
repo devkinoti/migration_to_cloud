@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-ACME.co is seeking to transition its IT infrastructure from an on premises server system to
+ACME.co is an ecommerce platform seeking to transition its IT infrastructure from an on premises server system to
 a cloud based environment.
 The goal is to enhance scalability of the systems, reduce server based operational costs such as maintenance and electricity bills etc.
 ACME.co needs to assess the feasibility and develop a strategy for the migration.
